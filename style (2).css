@@ -1,0 +1,17 @@
+.main
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+   text-align: center;
+   font-size: medium;
+   background-color: #200016;
+   color:#f6f2fa;
+}
+.video
+{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color:#10001f;
+    color: rgb(233, 234, 241);
+}
